@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  margin-bottom: 50px;
+}
+
+.card {
+  width: 300px;
+  display: inline-block;
+}
